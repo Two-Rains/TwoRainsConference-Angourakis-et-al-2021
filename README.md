@@ -1,6 +1,6 @@
 [![DOI]()]()
 
-# IndusVillage. Modelling cropping strategies and climate change in rural settlements of the Indus Civilisation
+# IndusVillage. Modelling cropping strategies under weather variability and climate change in rural settlements of the Indus Civilisation
 Presentation for the "Modelling Ancient Agricultural Societies" session in the TwoRains Conference (22 June 2021)
 
 TwoRains Conference page: https://www.arch.cam.ac.uk/research/projects/current-projects/tworains/tworains-conference-2021
