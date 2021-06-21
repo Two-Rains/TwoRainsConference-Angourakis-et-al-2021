@@ -1,4 +1,4 @@
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/379022552.svg)](https://zenodo.org/badge/latestdoi/379022552)
 
 # IndusVillage. Modelling cropping strategies under weather variability and climate change in rural settlements of the Indus Civilisation
 Presentation for the "Modelling Ancient Agricultural Societies" session in the TwoRains Conference (22 June 2021)
